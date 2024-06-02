@@ -1,4 +1,4 @@
-## Planning for Gold: A Split-Sampling Framework for Valid Powerful Design of Observational Studies
+## Planning for Gold: Sample Splitting for Valid Powerful Design of Observational Studies
 
 > Authors: William Bekerman, Abhinandan Dalal, Carlo del Ninno, Dylan Small
 
