@@ -1,0 +1,3 @@
+data/*.RData
+**/data
+figures/*.pdf
