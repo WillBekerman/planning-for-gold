@@ -2,7 +2,7 @@
 
 > Authors: William Bekerman, Abhinandan Dalal, Carlo del Ninno, Dylan Small
 
-Please find a preprint for our paper here: xxx
+Please find a preprint for our paper [here](https://arxiv.org/abs/2406.00866).
 
 # planning.for.gold
 
